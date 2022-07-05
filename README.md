@@ -1,4 +1,4 @@
 # assessoria-run
 Projeto assessoria-run v1.0
 
-test
+Um game de browser :)
