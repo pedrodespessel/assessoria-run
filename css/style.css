@@ -10,7 +10,7 @@ p {margin-left: 15px;}
 
 .game-board {
     border-bottom: 15px solid rgb(21, 138, 11);
-    width: 100%;
+    width: 800px;
     height: 500px;
     margin: 0 auto;
     position: relative;
@@ -48,7 +48,10 @@ p {margin-left: 15px;}
 }
 
 .game-over { 
-    width: 500px;
+    width: 50%;
+    margin: 0px auto;
+    position: absolute;
+    z-index: 99;
     display: none;
 }
 
